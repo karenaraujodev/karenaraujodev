@@ -26,17 +26,23 @@ Também venho estudando **APIs, Git, GitHub e fundamentos de AWS**, colocando me
 ## 📂 Projetos
 
 🎬 [**CineSearch**](https://karenaraujodev.github.io/cine-search/)  
+
 Aplicação web para pesquisa de filmes utilizando JavaScript e a API do TMDB.
 
 💼 [**Mini Portfólio**](https://karenaraujodev.github.io/mini-Portfolio/)
 
-🔎 [**Busca de CEP**](https://karenaraujodev.github.io/BuscarCEP/)  
+Página pessoal desenvolvida com HTML e CSS para apresentar um pouco sobre mim, minhas habilidades e meus projetos.
+
+🔎 [**Busca de CEP**](https://karenaraujodev.github.io/BuscarCEP/)
+
 Aplicação que consulta informações de endereço através de uma API.
 
 💱 [**Conversor de moedas**](https://karenaraujodev.github.io/convert/)
+
 Projeto desenvolvido para praticar JavaScript, consumo de API e manipulação do DOM.
 
 📝 [**To-do List**](https://karenaraujodev.github.io/To-do-List/)  
+
 Aplicação para gerenciamento de tarefas utilizando JavaScript.
 
 ## 📚 Atualmente estudando
