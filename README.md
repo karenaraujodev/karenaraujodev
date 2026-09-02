@@ -22,10 +22,11 @@ Também venho estudando **APIs, Git, GitHub e fundamentos de AWS**, colocando me
 - GitHub
 - APIs REST
 - AWS
+- Vercel
 
 ## 📂 Projetos
 
-🎬 [**CineSearch**](https://karenaraujodev.github.io/cine-search/)  
+🎬 [**CineSearch**](https://cine-search-kappa-topaz.vercel.app/)
 
 Aplicação web para pesquisa de filmes utilizando JavaScript e a API do TMDB.
 
@@ -37,22 +38,10 @@ Página pessoal desenvolvida com HTML e CSS para apresentar um pouco sobre mim, 
 
 Aplicação que consulta informações de endereço através de uma API.
 
+
 💱 [**Conversor de moedas**](https://karenaraujodev.github.io/convert/)
 
 Projeto desenvolvido para praticar JavaScript, consumo de API e manipulação do DOM.
-
-📝 [**To-do List**](https://karenaraujodev.github.io/To-do-List/)  
-
-Aplicação para gerenciamento de tarefas utilizando JavaScript.
-
-## 📚 Atualmente estudando
-
-- Análise e Desenvolvimento de Sistemas
-- JavaScript
-- Consumo de APIs
-- Git e GitHub
-- AWS
-- Boas práticas de desenvolvimento web
 
 ## 🎯 Objetivo
 
