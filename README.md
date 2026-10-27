@@ -4,9 +4,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-Estou construindo minha carreira na área de tecnologia e atualmente estudo **HTML, CSS e JavaScript**, com foco em desenvolvimento web.
-
-Também venho estudando **APIs, Git, GitHub e fundamentos de AWS**, colocando meus conhecimentos em prática através de projetos próprios.
+Estou construindo minha carreira na área de tecnologia e atualmente estudo **HTML, CSS, JavaScript e React**, com foco em desenvolvimento web.
 
 ## 🚀 Tecnologias e ferramentas
 
@@ -15,6 +13,7 @@ Também venho estudando **APIs, Git, GitHub e fundamentos de AWS**, colocando me
 - HTML5
 - CSS3
 - JavaScript
+- React
 
 ### Ferramentas e tecnologias
 
